@@ -12,7 +12,7 @@ SUBREDDIT_NAME = 'memes'
 POST_LIMIT = 1
 
 bot = SimpleLongPollBot(tokens=config.settings['TOKEN'],
-                        group_id=207820345)
+                        group_id=id group VK)
 
 @bot.message_handler(bot.command_filter('mems'))
 async def send_mem(event: SimpleBotEvent) -> str:
