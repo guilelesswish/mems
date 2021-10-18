@@ -1,2 +1,2 @@
 # mems
-Repositories Mems Bot RE https://vk.com/mems191
+Repositories Бот-Самогонщик https://vk.com/botsamogon
